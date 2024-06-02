@@ -1,4 +1,4 @@
-## Hi there 👋
+## Md Shanjid Arefin
 
 <!--
 **ShihabKuet/ShihabKuet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi there! I'm Md Shanjid Arefin, a passionate graduate in Computer Science and Engineering from KUET, class of 2024. With a diverse project portfolio spanning ASP.NET, OpenGL C++, Unreal Engine Game Development, Oracle Database, Java Desktop Application, Android Mobile Applications, and Machine Learning, I thrive on exploring the breadth of software development.
+
+🚀 My expertise lies in Problem Solving, and I've honed my skills in languages like C++, Python, Java, C#, along with web technologies such as HTML, CSS, and JavaScript.
+
+💡 Always eager to learn and innovate, I'm committed to pushing boundaries and creating impactful solutions in the world of technology. Let's collaborate and build something amazing together! 🌟
