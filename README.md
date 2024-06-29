@@ -1,7 +1,5 @@
 ![Shihab KUET](https://github.com/ShihabKuet/ShihabKuet/blob/main/github_intro.jpg?raw=true)
 
-## Md Shanjid Arefin
-
 <h1 align="center">Hi 👋, I'm Md Shanjid Arefin</h1>
 <h3 align="center">A passionate software engineer from graduated from KUET</h3>
 
