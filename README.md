@@ -1,9 +1,9 @@
+![Shihab KUET](https://github.com/ShihabKuet/ShihabKuet/blob/main/github_intro.jpg?raw=true)
+
 ## Md Shanjid Arefin
 
 <h1 align="center">Hi 👋, I'm Md Shanjid Arefin</h1>
 <h3 align="center">A passionate software engineer from graduated from KUET</h3>
-
-![Shihab KUET](https://github.com/ShihabKuet/ShihabKuet/blob/main/github_intro.jpg?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shihabkuet&label=Profile%20views&color=0e75b6&style=flat" alt="shihabkuet" /> </p>
 
