@@ -1,7 +1,7 @@
 ![Shihab KUET](https://github.com/ShihabKuet/ShihabKuet/blob/main/github_intro.jpg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Md Shanjid Arefin</h1>
-<h3 align="center">A passionate computer science engineer graduated from KUET</h3>
+<h3 align="center">A passionate computer science engineer currenly working as a R&D Engineer @BDCOM, graduated from KUET</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shihabkuet&label=Profile%20views&color=0e75b6&style=flat" alt="shihabkuet" /> </p>
 
